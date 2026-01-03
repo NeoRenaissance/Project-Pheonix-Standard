@@ -1,0 +1,45 @@
+EXHIBIT L: THE "HYBRID MONO" SPECIFICATION
+
+Maximizing Digital Throughput while Maintaining Analog Compatibility
+
+1.0 THE "GOLDILOCKS" CONFIGURATION (MODE 2)
+
+The Petitioner defines Mode 2 as the optimal transitional state for broadcasters who wish to offer competitive digital services (Video/Lossless Audio) without abandoning their legacy analog audience.
+
+1.1 Spectrum Allocation (Baseband View)
+
+0 - 15 kHz: Analog Mono (L+R). Standard pre-emphasis.
+
+15 - 19 kHz: Guard Band (No Pilot Tone).
+
+20 - 54 kHz: Digital Block A (Recursive GFDM).
+
+54 - 60 kHz: Legacy RDS + O-RDS (Station Heartbeat).
+
+60 - 99 kHz: Digital Block B (Recursive GFDM).
+
+2.0 THROUGHPUT PERFORMANCE
+
+By utilizing the vacated Stereo subcarriers and applying 4096-QAM modulation to Digital Blocks A and B:
+
+Raw Throughput: ~2.1 Mbps.
+
+Efficiency Gain: This represents a 20x increase over legacy HD Radio hybrid modes.
+
+3.0 SERVICE PROFILE: "THE MULTIMEDIA MONO STATION"
+
+With 2.1 Mbps of capacity, a Mode 2 station creates a totally new product category:
+
+Legacy Service: Rock-solid Analog Mono audio. Excellent penetration in basements and fringe areas.
+
+Digital Service (The "Phoenix" Payload):
+
+Visual Radio: 720p H.265 Video Stream (1.5 Mbps).
+
+Audiophile Audio: 24-bit/48kHz FLAC Stream (Lossless).
+
+Firmware/Data: 200 kbps dedicated pipe for IoT/Automotive updates.
+
+4.0 CONCLUSION
+
+Hybrid Mono is not a compromise; it is a strategic pivot. It sacrifices "Analog Stereo" (which is often noisy and multipath-prone in cars) to gain "Digital Video." This trade-off vastly increases the value of the spectrum license.
