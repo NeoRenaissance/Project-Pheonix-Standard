@@ -64,3 +64,8 @@ But the USII is the solution to the America problem.
 We have the blueprints. We have the people. We just need the green light.
 
 Let us build.
+
+~ @NeoRenaissance 
+
+Present to future; Standing still is moving backwards.
+Progress is found by looking out; Slow demise in stagnant races.
