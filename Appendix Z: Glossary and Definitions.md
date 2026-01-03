@@ -22,6 +22,10 @@ USII (United States Innovation Initiative): The proposed federal "Skunkworks" bo
 
 2.0 TECHNICAL CONCEPTS
 
+First-Principle Thinking
+
+First principles thinking is a problem-solving method that involves breaking down complex issues to their most fundamental truths, stripping away assumptions, and rebuilding knowledge from the ground up to find innovative solutions. Instead of reasoning by analogy (copying others), you question what's absolutely true and then reconstruct a new understanding or creation from those basic elements, much like building a song from notes rather than covers.
+
 Recursive GFDM
 
 The physical layer modulation standard for Project Phoenix. It utilizes a "Fractal" approach where the baseband is first channelized into "Sonic" (Audio) and "Supersonic" (Data) tiers, which are then independently modulated using GFDM filter banks before being upconverted to the carrier frequency. This achieves spectral efficiencies of >10 bps/Hz.
