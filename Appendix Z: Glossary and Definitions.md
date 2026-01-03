@@ -1,6 +1,6 @@
 APPENDIX Z: GLOSSARY OF TERMS AND DEFINITIONS
 
-Standardized Terminology for the Phoenix Project (IEEE 802.BC[TBD])
+Standardized Terminology for the Phoenix Project (IEEE TBD)[Proposed: 802.BC]
 
 1.0 ACRONYMS
 
