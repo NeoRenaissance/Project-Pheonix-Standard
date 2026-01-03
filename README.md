@@ -1,6 +1,19 @@
 # Project-Pheonix-Standard
 "Exhibit A" A demonstration of what is possible when we reject stagnation of the status quo and apply first principle solutions. 
 
+A Note on Human-AI Collaboration
+
+Transparency Statement:
+The concepts, architectural strategies, physical layer definitions (FRBM & Recursive GFDM), and policy frameworks detailed in this repository are the original intellectual property of a human engineer Daniel Golden @NeoRenaissance.
+
+This project utilizes Artificial Intelligence (Large Language Model) technology strictly as a force multiplier for documentation.
+
+The Architect (@NeoRenaissance): Responsible for the creative vision, technical logic, regulatory strategy, and decision-making.
+
+The Scribe (AI): Responsible for transcription, formatting, markdown generation, and expanding the Architect's shorthand into formal technical prose.
+
+The ideas contained herein were not hallucinated by a machine. They are the result of first-principles engineering by a human being, who used an AI assistant to overcome the friction of writing it all down.
+
 THE PHOENIX:
 
 An Open Letter to the President, Congress, and the Builders of America.
